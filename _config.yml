@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Gongran Su"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "assets/images/bio-photo.JPG"
   bio    : "Marketing Analytics | Data-driven Growth | Columbia MS Applied Analytics"
   links:
     - label: "Email"
