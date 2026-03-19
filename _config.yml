@@ -59,7 +59,9 @@ plugins:
 author:
   name   : "Gongran Su"
   avatar : "assets/images/bio-photo.JPG"
-  bio    : " MS in Applied Analytics at Columbia University with a background in Journalism from Northwestern. Experienced in marketing analytics, A/B testing, and data-driven growth. Currently seeking roles in marketing analytics or digital marketing analytics."
+  bio    : " MS in Applied Analytics at Columbia University with a background in Journalism from Northwestern. 
+  Experienced in marketing analytics, A/B testing, and data-driven growth. 
+  Currently seeking roles in marketing analytics or digital marketing analytics."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-link"
